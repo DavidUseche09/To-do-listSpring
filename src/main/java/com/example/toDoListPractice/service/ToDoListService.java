@@ -1,5 +1,5 @@
-package com.example.toDoListPractice;
-import com.sun.source.util.TaskEvent;
+package com.example.toDoListPractice.service;
+import com.example.toDoListPractice.model.Task;
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;

@@ -8,3 +8,4 @@ public class ToDoListPracticeApplication {
 		SpringApplication.run(ToDoListPracticeApplication.class, args);
 	}
 }
+

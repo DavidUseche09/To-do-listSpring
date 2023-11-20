@@ -1,5 +1,7 @@
-package com.example.toDoListPractice;
+package com.example.toDoListPractice.controller;
 
+import com.example.toDoListPractice.model.Task;
+import com.example.toDoListPractice.service.ToDoListService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

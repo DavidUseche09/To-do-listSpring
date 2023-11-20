@@ -1,4 +1,4 @@
-package com.example.toDoListPractice;
+package com.example.toDoListPractice.model;
 
 public class Task {
     private String description;
